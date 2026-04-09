@@ -1,0 +1,7 @@
+JAN KOWALSKI, ID: DSD2, Age: 44, Address: POZNAN, Extra Luggage: Yes, Seat: 1C
+MIA YALA, ID: 9SJS9DJ, Age: 24, Address: PARIS, Extra Luggage: Yes, Seat: 1D
+TOMASZ LAKIER, ID: PL2312K3JKDS, Age: 32, Address: POZNAN, Extra Luggage: Yes, Seat: 1E
+BORYS GDYK, ID: P2LAS2SD, Age: 56, Address: WIELICZKA, Extra Luggage: Yes, Seat: 9E
+OLIVER KAHN, ID: DE2KBAY1X, Age: 54, Address: MUNICH, Extra Luggage: Yes, Seat: 9A
+Oleksei Varnuchuk, ID: 9DJKUA21S, Age: 37, Address: Kviv, Extra Luggage: Yes, Seat: 5C
+JAN OBLAK, ID: SL2312DAA, Age: 33, Address: WROCLAW, Extra Luggage: Yes, Seat: 10A

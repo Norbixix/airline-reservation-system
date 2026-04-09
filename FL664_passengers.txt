@@ -1,0 +1,7 @@
+EDYTA WACEK, ID: KDNQIW343, Age: 49, Address: ZIELONA G‡RA, Extra Luggage: Yes, Seat: 1C
+YAN BERSHEK, ID: G8DUE9, Age: 72, Address: , Extra Luggage: No, Seat: 1F
+ADRIAN BUKALA, ID: PL231S2S, Age: 26, Address: ZAMOSC, Extra Luggage: Yes, Seat: 2A
+HANS ZIMMER, ID: DE92KSS22, Age: 41, Address: BERLIN, Extra Luggage: Yes, Seat: 4C
+MAJA KOWALSKA, ID: PL1220MNA, Age: 29, Address: ZAKOPANE, Extra Luggage: No, Seat: 7B
+HENRIK SCHLUNZWIG, ID: MD9EUDSN22, Age: 55, Address: BERLIN, Extra Luggage: Yes, Seat: 13C
+Jan Ivansky, ID: SA9091, Age: 29, Address: Texas, Extra Luggage: No, Seat: 15E

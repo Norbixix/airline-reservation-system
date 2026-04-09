@@ -1,0 +1,8 @@
+DAMIAN USYK, ID: K3N3IK, Age: 29, Address: GDYNIA, Extra Luggage: No, Seat: 5B
+JACK PETTERSON, ID: USKM1N22, Age: 21, Address: MEMPHIS, Extra Luggage: No, Seat: 1C
+ANDRZEJ KWICZ, ID: PKLS2SA, Age: 67, Address: OLSZTYN, Extra Luggage: No, Seat: 13A
+KAMIL HOJLUNG, ID: KI9CE1SX, Age: 19, Address: OSLO, Extra Luggage: Yes, Seat: 18C
+JAKE PAUL, ID: US9TE1X, Age: 24, Address: TEXAS, Extra Luggage: Yes, Seat: 10A
+OYN ZING, ID: CHIS8JA, Age: 22, Address: PYONGANG, Extra Luggage: Yes, Seat: 8C
+EUGENIUSZ CHWALIPIETA, ID: PDL2NM2SS, Age: 67, Address: WARSZAWA, Extra Luggage: Yes, Seat: 15F
+ADA WEXZIX, ID: CHNSJA9XX, Age: 29, Address: TOKYO, Extra Luggage: Yes, Seat: 1D
